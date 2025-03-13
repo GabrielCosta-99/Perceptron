@@ -1,7 +1,10 @@
-# Perceptron - Modelos Simples em Python
-*Nome: Gabriel da silva oliveira costa 
-*Data 13/03/2025
-*Professor: Alex montanha 
+## Perceptron - Modelos Simples em Python
+
+  **Nome:** Gabriel da silva oliveira costa 
+  
+  **Data:** 13/03/2025
+  
+  **Professor:** Alex montanha 
 
 Este repositório contém implementações de modelos simples de **Perceptron** em Python, um algoritmo fundamental de aprendizado de máquina utilizado para classificação binária.
 
@@ -14,4 +17,5 @@ O **Perceptron** é um modelo matemático inspirado no funcionamento de um neur�
 Passo a passo:
 
 Abra o [Google Colab](https://colab.research.google.com)
+
 Crie um novo notebook e copie os código.
